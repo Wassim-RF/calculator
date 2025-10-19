@@ -2,6 +2,7 @@
     .theBody {
         width: 350px;
         height: 600px;
+        margin: 0;
     }
 
     .affichagecalculator {
