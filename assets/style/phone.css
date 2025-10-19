@@ -1,11 +1,10 @@
-@media (max-width:600px ) {
+@media (max-width: 768px) {
     .theBody {
-        width: 300px;
-        height: 100%;
+        width: 600px;
     }
 
     .affichagecalculator {
-        width: 250px;
+        width: 450px;
         height: 70px;
     }
 }
