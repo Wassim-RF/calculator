@@ -1,0 +1,42 @@
+.theBody main {
+    display: flex;
+    justify-content: center;
+}
+
+.calculatorSection {
+    background-color: black;
+}
+
+.affichagecalculator {
+    background: #F7ECDE;
+    width: 500px;
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: x-large;
+    padding-right: 5px;
+}
+
+.buttonsDiv {
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 10px;
+}
+
+.claculatorBUttonNumOperation {
+    border-color: #54BAB9;
+    height: 70px;
+}
+
+#egalButton {
+    border-color: #fbf8f1;
+    background-color: #54BAB9;
+}
+
+#ACButton {
+    grid-column: span 2;
+}

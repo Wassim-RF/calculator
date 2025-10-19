@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+} */
+
+.theBody {
+    margin: 20px;
+    width: 600px;
+    height: 650px;
+    background-color: #fbf8f1;
+    box-shadow: 2px 2px 3px black;
+    border-radius: 15px;
+}
+
+.pagesHeadear {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 20px 30px 10px;
+    padding-top: 15px;
+}
+
+.headerButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.navBar {
+    display: flex;
+    gap: 25px;
+}
+
+.navBar a button {
+    color: black;
+    font-size: large;
+    background: none;
+    border: none;
+    cursor: pointer;
+} 
+
+.converterSection {
+    display: none;
+}

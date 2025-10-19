@@ -1,0 +1,20 @@
+.navBar a button:hover {
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.navBar:hover  {
+    gap: 15px;
+}
+
+.claculatorBUttonNumOperation:hover {
+    border-color: #fbf8f1;
+    background-color: #54BAB9;
+    box-shadow: 2px 2px 2px black;
+}
+
+#egalButton:hover {
+    border-color: #54BAB9;
+    background: none;
+    box-shadow: 2px 2px 2px black;
+}
