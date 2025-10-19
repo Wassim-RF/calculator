@@ -1,0 +1,10 @@
+@media (max-width:600px ) {
+    .theBody {
+        width: 100%;
+    }
+
+    .affichagecalculator {
+        width: 450px;
+        height: 70px;
+    }
+}
