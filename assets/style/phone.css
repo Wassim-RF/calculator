@@ -1,12 +1,20 @@
 @media (max-width: 600px) {
     .theBody {
         width: 350px;
-        height: 600px;
-        margin: 0;
+        height: 550px;
     }
 
     .affichagecalculator {
         width: 300px;
         height: 40px;
+    }
+
+    .buttonsDiv {
+        gap: 5px;
+    }
+
+    .claculatorBUttonNumOperation {
+        border-color: #54BAB9;
+        height: 70px;
     }
 }
